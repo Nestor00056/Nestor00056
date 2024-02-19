@@ -1,5 +1,12 @@
-### Hi there 👋
+### Acerca de mi
+🧑🏽Buenos días, tardes o noches. Me presento: soy Nestor Camilo, un apasionado de la tecnología y la resolución de problemas. Este interés me ha llevado al mundo del desarrollo de software, específicamente al desarrollo web.
 
+💻Aquí en Henry, he tenido la oportunidad de aprender soluciones a problemas y necesidades que tanto personas como empresas solicitan en el ámbito web. Con la ayuda de herramientas como JavaScript, CSS3, HTML5, ReactJS y Redux para el frontend, y NodeJs, Expressjs, PostgreSQL y Sequelize para el backend, y posiblemente más en el futuro según las necesidades a resolver. 
+
+🏁Mi principal objetivo es el conocimiento y el aprendizaje, ya que esto me permitirá comprender el entorno, los problemas y las soluciones posibles a aplicar.
+
+En caso de querer contactarme, este es mi correo:
+nlodono609@gmail.com
 <!--
 **Nestor00056/Nestor00056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
