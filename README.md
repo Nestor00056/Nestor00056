@@ -7,6 +7,7 @@
 
 En caso de querer contactarme, este es mi correo:
 nlodono609@gmail.com
+nestorlaboral27@gmail.com
 <!--
 **Nestor00056/Nestor00056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
